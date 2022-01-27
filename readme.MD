@@ -7,6 +7,68 @@
 
 ## Notes By Section
 
+## 3.section_number section_title
+
+```
+notes_go_here
+```
+
+## 3.section_number section_title
+
+```
+notes_go_here
+```
+
+## 3.section_number section_title
+
+```
+notes_go_here
+```
+
+## Quiz 3
+
+```
+notes_go_here
+```
+
+## 3.13 Tables
+```
+notes_go_here
+```
+
+## 3.12 Images
+```
+notes_go_here
+```
+
+## 3.11 Typography
+```
+emphasis on h1 tags.  cool stuff, curious about if some of this will 508 or not.
+notes in index.3.11.html
+```
+
+## Quiz 2
+
+100%, baby!
+
+## 2.10 Align Columns in Grid
+
+vertical alignment using my custom class 'height' along with bootstrap row classes...
+
+```
+align-items-start   (aligns to top of box)
+align-items-???     (aligns to vertical center of box)
+align-items-end     (aligns to bottom of box)
+```
+
+horizintal alignment using bootstrap row classes... 
+
+```
+justify-content-start   (aligns to BLAH)
+justify-content-center  (aligns to BLAH)
+justify-content-end     (aligns to BLAH)
+```
+
 ## 2.9 Grids for multiple devices
 
 * `col-lg-x` and `col-md-x`
@@ -89,7 +151,7 @@ extra large         xl              >=1200px
 extra extra large   xxl             >=1400px
 ```
 
-### 1.4 Bootstrap 5 Document Structure (& quiz notes)
+### 1.4 Bootstrap 5 Document Structure (& Quiz 1)
 * we can use CDN for bootstrap 5 and not the local file
 * swapped local file for CDN to test it out
 * integrity attribute specifies that the file is unmodified
