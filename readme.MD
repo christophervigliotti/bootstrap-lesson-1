@@ -7,11 +7,17 @@
 
 ## Notes By Section
 
-## Grids Part 1
+## 2.8 Grids Part 2
 
+```
+notes_go_here
+```
 
+## 2.7 Grids Part 1
 
-## Containers
+* working with classes container, row and column (cool stuff)
+
+## 2.6 Containers
 
 ```
 container           xs      s       m       l       xl      xxl
