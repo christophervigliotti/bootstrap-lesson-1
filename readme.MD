@@ -9,8 +9,20 @@
 
 ## 2.8 Grids Part 2
 
+* grid system is divided into 8 columns
+
 ```
-notes_go_here
+<!-- variable column widths! -->
+    <div class="container">
+      <div class="row">
+        <div class="col-8">
+          <div class="box"></div>
+        </div>
+        <div class="col-4">
+          <div class="box"></div>
+        </div>
+      </div>
+    </div>
 ```
 
 ## 2.7 Grids Part 1
