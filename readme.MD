@@ -7,6 +7,37 @@
 
 ## Notes By Section
 
+## 2.9 Grids for multiple devices
+
+* `col-lg-x` and `col-md-x`
+
+```
+<div class="container">
+    <div class="row">
+    <div class="col-lg-8 col-md-8">
+        <div class="box"></div>
+    </div>
+    <div class="col-lg-4 col-md-8">
+        <div class="box"></div>
+    </div>
+    </div>
+    <div class="row">
+    <div class="col-lg-3 col-md-3">
+        <div class="box"></div>
+    </div>
+    <div class="col-lg-3 col-md-3">
+        <div class="box"></div>
+    </div>
+    <div class="col-lg-3 col-md-3">
+        <div class="box"></div>
+    </div>
+    <div class="col-lg-3 col-md-3">
+        <div class="box"></div>
+    </div>
+    </div>
+</div>
+```
+
 ## 2.8 Grids Part 2
 
 * grid system is divided into 8 columns
