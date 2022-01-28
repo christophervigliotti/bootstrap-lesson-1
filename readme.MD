@@ -12,7 +12,8 @@ Using Ubuntu (and not just because it's cool)...
 
 ## Next Time
 
-note_whats_next_here
+* revisit 5.24
+* more_goes_here
 
 ## Section 5
 see index.05.html
