@@ -10,13 +10,17 @@ Using Ubuntu (and not just because it's cool)...
 2. dropped in a folder and got a web server rolling via `sudo python3 -m http.server 80` 
 3. http://0.0.0.0/sections/ 
 
+## Next Step
+
+* continue section 6
+
 ## Consider Continuing This Effort
 
 * continue distill notes into https://gist.github.com/christophervigliotti/3236934e7dd0be8df8118bfb95f867b5
 
 ## Section 6
 
-
+see folder /section_6
 
 ## Section 5
 Ran through section 5...sections 24 and 34 should be revisited
