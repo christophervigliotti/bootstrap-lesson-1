@@ -21,36 +21,26 @@ notes_go_here
 notes_go_here
 ```
 
-## 4.section_number section_title
+## 4.14 Basic Login Form
 
 ```
 notes_go_here
 ```
 
 ## Quiz 3
-
-```
 aced it
-```
 
 ## 3.13 Tables
-```
 notes in index.3.13.html cool stuff
-```
 
 ## 3.12 Images
-```
 various image classes, notes in index.3.12.html
-```
 
 ## 3.11 Typography
-```
 emphasis on h1 tags.  cool stuff, curious about if some of this will 508 or not.
 notes in index.3.11.html
-```
 
 ## Quiz 2
-
 100%, baby!
 
 ## 2.10 Align Columns in Grid
