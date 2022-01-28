@@ -14,6 +14,10 @@ Using Ubuntu (and not just because it's cool)...
 
 * continue distill notes into https://gist.github.com/christophervigliotti/3236934e7dd0be8df8118bfb95f867b5
 
+## Section 6
+
+
+
 ## Section 5
 Ran through section 5...sections 24 and 34 should be revisited
 ```
@@ -33,7 +37,7 @@ Ran through section 5...sections 24 and 34 should be revisited
 31. Popover
 32. Progress Bars
 34. Scrollspy
-XX. Quiz 5
+XX. Quiz 5 - 100%!
 ```
 
 ### Quiz 4
