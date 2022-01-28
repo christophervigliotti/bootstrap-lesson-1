@@ -14,12 +14,61 @@ Using Ubuntu (and not just because it's cool)...
 
 note_whats_next_here
 
-## Notes By Section
+## Section 5
+```
+see index.05.html
 
-Many notes are found in the code of their respective sections
+18. Dismissable Alerts
 
-### 4.section_number section_title
-notes_go_here
+<div class="alert alert-primary alert-dismissible fade show" role="alert">
+  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+
+19. Badges
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-lg-6 mt-5">
+      <h3>
+        Hello Spoderman
+        <span class="badge bg-primary">Does whatever a Spoder can.</span>
+      </h3>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-lg-6 mt-5">
+      <button class="btn btn-secondary">Spoder 
+        <span class="badge bg-danger">Man</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+bg-primary stands for "background primary" I think
+
+20. Breadcrumbs
+21. Button & Button Groups
+22. Cards
+23. Carousels
+24. Collapse
+25. Dropdown
+26. List Group
+27. Modals
+28. Navs
+29. Navbar
+30. Pagination
+31. Popover
+32. Progress Bars
+33. Progress Bar Snippet
+34. Scrollspy
+XX. Quiz 5
+```
+
+### Quiz 4
+* 2 out of 3 correct
+* the numbers in Bootstrap are "rems" not "pixels" good to know & makes sense
 
 ### 4.17 Form Layout
 mb-3 stands for "margin-bottom: 3"
