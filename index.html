@@ -4,39 +4,42 @@
   <head>
     <title>Bootstrap 5</title>
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet">
   </head>
   <body class="bg-light">
     <h1>Section 5</h1>
     <a href="http://0.0.0.0/sections/" class="btn btn-secondary">To Sections List</a>
 
-    <h2>20. Breadcrumbs</h2>
-    html_goes_here
-    <hr />
-
-    <h2>21. Button & Button Groups</h2>
-    html_goes_here
-    <hr />
-    
-    <h2>22. Cards</h2>
-    html_goes_here
-    <hr />
-
-    <h2>23. Carousels</h2>
-    html_goes_here
-    <hr />
-
     <h2>24. Collapse</h2>
-    html_goes_here
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mt-5">
+          html_goes_here
+        </div>
+      </div>
+    </div>
     <hr />
 
     <h2>25. Dropdown</h2>
-    html_goes_here
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mt-5">
+          html_goes_here
+        </div>
+      </div>
+    </div>
     <hr />
 
     <h2>26. List Group</h2>
-    html_goes_here
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mt-5">
+          html_goes_here
+        </div>
+      </div>
+    </div>
     <hr />
-
+    
     <h2>27. Modals</h2>
     html_goes_here
     <hr />
@@ -68,7 +71,150 @@
     <h2>34. Scrollspy</h2>
     html_goes_here
     <hr />
+ 
+    <!-- paste completed below here -->
+    <h2>23. Carousels</h2>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-8 mt-5">
+          
+          <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
 
+                <!--
+                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+                -->
+                <img src="https://source.unsplash.com/random/1200x400" class="d-block w-100"  />
+       
+                <div class="container">
+                  <div class="carousel-caption text-start">
+                    <h1>Example headline.</h1>
+                    <p>Some representative placeholder content for the first slide of the carousel.</p>
+                    <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+
+                <!--
+                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+                -->
+                <img src="https://source.unsplash.com/random/1200x400" class="d-block w-100"  />
+        
+                <div class="container">
+                  <div class="carousel-caption ">
+                    <h1>Another example headline.</h1>
+                    <p>Some representative placeholder content for the second slide of the carousel.</p>
+                    <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+                  </div>
+                </div>
+              </div>
+              <div class="carousel-item">
+
+                <!--
+                <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
+                -->
+                <img src="https://source.unsplash.com/random/1200x400" class="d-block w-100"  />
+
+                <div class="container">
+                  <div class="carousel-caption text-end ">
+                    <h1>One more for good measure.</h1>
+                    <p>Some representative placeholder content for the third slide of this carousel.</p>
+                    <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+                  
+        </div>
+      </div>
+    </div>
+    <hr />
+        
+    <h2>22. Cards</h2>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mt-5">
+          <div class="card">
+            <div class="card-header">This is card-header</div>
+             <img src="assets/images/windows.png" />
+            <div class="card-body">
+              <h4 class="card-title">card-title in an h4</h4>
+              <p class="card-text">This is card-text</p>
+            </div>
+            <div class="card-footer">
+              card-footer
+              <a href="#" class="btn btn-success">btn btn-success</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />
+
+    <h2>21. Button & Button Groups</h2>
+    <h3>Before</h3>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mt-5">
+          <button>A Button</button>
+          <br />
+          <a href="#">A Link</a>
+          <br />
+          <span>A &lt;span&gt; of text.</span>
+          <br />
+          <input type="submit" value="a submit input" />
+          <br />
+        </div>
+      </div>
+    </div>
+    <h3>After</h3>
+    <em>Note that btn-block is depracated (and didnt' work) so I replacd it with col-12 and we are GTG</em>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mt-5">
+          <button class="btn btn-success col-12 disabled">A long, green, disabled button.</button>
+          <div class="btn-group btn-group-justified">
+            <a href="#" class="btn btn-primary">A Link!</a>
+            <span class="btn btn-warning">A &lt;span&gt; of text :(</span>
+            <input class="btn btn-danger" type="submit" value="a submit input NICEEE" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr />    
+
+    <h2>20. Breadcrumbs</h2>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mt-5">
+          <nav>
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item"><a href="#">Fries</a></li>
+              <li class="breadcrumb-item">Spoderman</li>
+            </ol>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <hr />
+    
     <h2>19. Badges</h2>
     <div class="container">
       <div class="row justify-content-center">

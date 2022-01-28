@@ -15,39 +15,10 @@ Using Ubuntu (and not just because it's cool)...
 note_whats_next_here
 
 ## Section 5
-```
 see index.05.html
-
+```
 18. Dismissable Alerts
-
-<div class="alert alert-primary alert-dismissible fade show" role="alert">
-  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-</div>
-
 19. Badges
-<div class="container">
-  <div class="row justify-content-center">
-    <div class="col-lg-6 mt-5">
-      <h3>
-        Hello Spoderman
-        <span class="badge bg-primary">Does whatever a Spoder can.</span>
-      </h3>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <div class="row justify-content-center">
-    <div class="col-lg-6 mt-5">
-      <button class="btn btn-secondary">Spoder 
-        <span class="badge bg-danger">Man</span>
-      </button>
-    </div>
-  </div>
-</div>
-
-bg-primary stands for "background primary" I think
-
 20. Breadcrumbs
 21. Button & Button Groups
 22. Cards
