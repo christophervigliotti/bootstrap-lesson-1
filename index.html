@@ -14,102 +14,27 @@
     <title>Bootstrap, Y'all!</title>
   </head>
   <body>
-    <h1>3.13</h1>
+    <h1>4.14</h1>
 
-    <h2>table-hover table-dark</h2>
-    <table class="table table-hover table-dark">
-      <tr>
-        <th scope="col">Name</th>
-        <th scope="col">Age</th>
-        <th scope="col">Smell</th>
-      </tr>
-      <tr>
-        <th scope="row">Bob Ross</th>
-        <td>12</td>
-        <td>Burnt Umber</td>
-      </tr>
-      <tr>
-        <th scope="row">Mr Burrito</th>
-        <td>99</td>
-        <td>Burrito</td>
-      </tr>
-    </table>
-
-    <h2>table-striped</h2>
-    <table class="table table-striped">
-      <tr>
-        <th scope="col">Name</th>
-        <th scope="col">Age</th>
-        <th scope="col">Smell</th>
-      </tr>
-      <tr>
-        <th scope="row">Bob Ross</th>
-        <td>12</td>
-        <td>Burnt Umber</td>
-      </tr>
-      <tr>
-        <th scope="row">Mr Burrito</th>
-        <td>99</td>
-        <td>Burrito</td>
-      </tr>
-    </table>
-
-    <h2>table</h2>
-    <table class="table">
-      <tr>
-        <th scope="col">Name</th>
-        <th scope="col">Age</th>
-        <th scope="col">Smell</th>
-      </tr>
-      <tr>
-        <th scope="row">Bob Ross</th>
-        <td>12</td>
-        <td>Burnt Umber</td>
-      </tr>
-      <tr>
-        <th scope="row">Mr Burrito</th>
-        <td>99</td>
-        <td>Burrito</td>
-      </tr>
-    </table>
-
-    <h2>table-secondary</h2>
-    <table class="table table-secondary">
-      <tr>
-        <th scope="col">Name</th>
-        <th scope="col">Age</th>
-        <th scope="col">Smell</th>
-      </tr>
-      <tr>
-        <th scope="row">Bob Ross</th>
-        <td>12</td>
-        <td>Burnt Umber</td>
-      </tr>
-      <tr>
-        <th scope="row">Mr Burrito</th>
-        <td>99</td>
-        <td>Burrito</td>
-      </tr>
-    </table>
-
-    <h2>table-success</h2>
-    <table class="table table-success">
-      <tr>
-        <th scope="col">Name</th>
-        <th scope="col">Age</th>
-        <th scope="col">Smell</th>
-      </tr>
-      <tr>
-        <th scope="row">Bob Ross</th>
-        <td>12</td>
-        <td>Burnt Umber</td>
-      </tr>
-      <tr>
-        <th scope="row">Mr Burrito</th>
-        <td>99</td>
-        <td>Burrito</td>
-      </tr>
-    </table>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-4">
+          <div class="border border-info mt-3 my_form rounded">
+            <form>
+              <div>
+                <input type="text" name="u_name" />
+              </div>
+              <div>
+                <input type="password" name="u_pass" />
+              </div>
+              <div>
+                <input type="submit" name="u_login" />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!--
     fancy CDN version (which obviously does not work when offline, which is my predicament at the time of writing this rambling note that nobody will ever read)

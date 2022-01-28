@@ -9,23 +9,26 @@
 
 Many notes are found in the code of their respective sections
 
-## 3.section_number section_title
-
-```
+## 4.section_number section_title
 notes_go_here
-```
 
-## 3.section_number section_title
-
-```
+## 4.section_number section_title
 notes_go_here
-```
+
+## 4.section_number section_title
+notes_go_here
+
+## 4.15 Designing form holder with custom & built-in css
+
+`<div class="border border-info mt-3 my_form rounded">`
+* border-info gives it a blue border
+* mt-3 gives it a margin-top of 3 px
+* rounded gives it rounded corners
+* my_form is a custom class
+
 
 ## 4.14 Basic Login Form
-
-```
-notes_go_here
-```
+Created a basic form with little Bootstrap styling...in preparation for the next section
 
 ## Quiz 3
 aced it
