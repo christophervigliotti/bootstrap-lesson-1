@@ -10,15 +10,12 @@ Using Ubuntu (and not just because it's cool)...
 2. dropped in a folder and got a web server rolling via `sudo python3 -m http.server 80` 
 3. http://0.0.0.0/sections/ 
 
-## Next Time
+## Consider Continuing This Effort
 
-* continue with 5.32
-* revisit 5.24
-* animate the progress bar in section 5.32
 * continue distill notes into https://gist.github.com/christophervigliotti/3236934e7dd0be8df8118bfb95f867b5
 
 ## Section 5
-see index.05.html
+Ran through section 5...sections 24 and 34 should be revisited
 ```
 18. Dismissable Alerts
 19. Badges
@@ -35,7 +32,6 @@ see index.05.html
 30. Pagination
 31. Popover
 32. Progress Bars
-33. Progress Bar Snippet
 34. Scrollspy
 XX. Quiz 5
 ```
