@@ -12,8 +12,10 @@ Using Ubuntu (and not just because it's cool)...
 
 ## Next Time
 
+* continue with 5.32
 * revisit 5.24
-* more_goes_here
+* animate the progress bar in section 5.32
+* continue distill notes into https://gist.github.com/christophervigliotti/3236934e7dd0be8df8118bfb95f867b5
 
 ## Section 5
 see index.05.html
@@ -84,7 +86,7 @@ vertical alignment using my custom class 'height' along with bootstrap row class
 
 ```
 align-items-start   (aligns to top of box)
-align-items-???     (aligns to vertical center of box)
+align-items-center     (aligns to vertical center of box)
 align-items-end     (aligns to bottom of box)
 ```
 
@@ -129,7 +131,7 @@ justify-content-end     (aligns to BLAH)
 
 ### 2.8 Grids Part 2
 
-* grid system is divided into 8 columns
+* grid system is divided into 12 columns
 
 ```
 <!-- variable column widths! -->
