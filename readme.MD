@@ -15,10 +15,12 @@ notes_go_here
 ## 4.section_number section_title
 notes_go_here
 
-## 4.section_number section_title
-notes_go_here
+## 4.16 Styling the Form
+see index.4.16.html
 
 ## 4.15 Designing form holder with custom & built-in css
+
+Added classes to the div that is the parent of the form tag
 
 `<div class="border border-info mt-3 my_form rounded">`
 * border-info gives it a blue border
