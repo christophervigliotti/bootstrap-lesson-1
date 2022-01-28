@@ -7,11 +7,7 @@
 
 ## Notes By Section
 
-## 3.section_number section_title
-
-```
-notes_go_here
-```
+Many notes are found in the code of their respective sections
 
 ## 3.section_number section_title
 
@@ -20,6 +16,12 @@ notes_go_here
 ```
 
 ## 3.section_number section_title
+
+```
+notes_go_here
+```
+
+## 4.section_number section_title
 
 ```
 notes_go_here
@@ -28,12 +30,12 @@ notes_go_here
 ## Quiz 3
 
 ```
-notes_go_here
+aced it
 ```
 
 ## 3.13 Tables
 ```
-notes_go_here
+notes in index.3.13.html cool stuff
 ```
 
 ## 3.12 Images
