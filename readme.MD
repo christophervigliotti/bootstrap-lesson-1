@@ -38,7 +38,7 @@ notes_go_here
 
 ## 3.12 Images
 ```
-notes_go_here
+various image classes, notes in index.3.12.html
 ```
 
 ## 3.11 Typography
